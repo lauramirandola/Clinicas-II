@@ -1,0 +1,10 @@
+pandas
+openai
+numpy
+statistics
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+tiktoken
